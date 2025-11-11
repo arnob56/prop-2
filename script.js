@@ -57,7 +57,6 @@ yesBtn.addEventListener("click", () => {
   yesBtn.textContent = "She said YES! 💖";
   document.body.innerHTML += `
     <div class="final-message">
-      <h1>She said YES! 💍</h1>
       <p>Forever starts now...</p>
     </div>`;
 });
